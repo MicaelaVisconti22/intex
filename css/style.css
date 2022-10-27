@@ -8,11 +8,12 @@
     
      header {
        background-color: #a183c0;
+       padding: 5px;
        
      }
        
       #intro-section{
-      padding:60px 0;
+      padding:60px ;
        }
      
        .menu__list a{
@@ -34,7 +35,7 @@
         list-style: none;
         display:inline-block;
         text-align: center;
-        margin: 10px; 
+        margin: 10px;
     
        } 
    
