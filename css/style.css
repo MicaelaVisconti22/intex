@@ -34,7 +34,7 @@
         list-style: none;
         display:inline-block;
         text-align: center;
-        margin: 10px;
+        margin: 10px; 
     
     }
    
@@ -50,6 +50,7 @@
      #intro-section{
         background-color: #b4a6c2;
         text-align: center; 
+        margin: 0px;
        
        
        }
