@@ -64,11 +64,12 @@
        #texto{
         text-align: center;
       }
-       #section-mapa{
-       text-align: center; 
-       margin: 10px;
+      .flex-container {
 
-       }
+        display: flex;
+        
+        }
+       
         
        
        
