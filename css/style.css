@@ -1,4 +1,4 @@
-*{
+*   {
     margin: 0;
     padding: 0;
      }
@@ -6,39 +6,39 @@
      font-family: 'Montserrat', sans-serif;
      }
     
-    header {
+     header {
        background-color: #a183c0;
        
      }
        
      #intro-section{
       padding:60px 0;
-    }
+      }
      
-     .menu__list a{
-      list-style-type: none;
+       .menu__list a{
+       list-style-type: none;
        
-    }
-     .menu__list  a {
+       }
+       .menu__list  a {
         color: black;
         text-transform: uppercase;
         text-decoration: none;
         }
-     */ barra de navegacion horizontal*/
+       */ barra de navegacion horizontal*/
        .menu__list ul a {
         display:inline-block;
         text-align: center;
         
-    }
-      li {
+       }
+       li {
         list-style: none;
         display:inline-block;
         text-align: center;
         margin: 10px; 
     
-    }
+       } 
    
-   .menu__list ul a {
+       .menu__list ul a {
        display:inline-block;
         text-align: center;
         
@@ -46,8 +46,8 @@
 
        li :hover {
         background: #635472;
-    }
-     #intro-section{
+       }
+       #intro-section{
         background-color: #b4a6c2;
         text-align: center; 
         margin: 0px;
@@ -62,11 +62,11 @@
        }
        #texto{
         text-align: center;
-    }
-    #section-mapa{
-    text-align: center; 
-    margin: 10px;
+      }
+       #section-mapa{
+       text-align: center; 
+       margin: 10px;
 
-  }
+       }
 
          
