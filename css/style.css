@@ -39,7 +39,7 @@
     }
    
    .menu__list ul a {
-    display:inline-block;
+       display:inline-block;
         text-align: center;
         margin: 10px;
        }
