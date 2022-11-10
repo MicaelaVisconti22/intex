@@ -34,4 +34,50 @@
         text-transform: uppercase;
         text-decoration: none;
         }
+        
+       
+       .menu__list ul a {
+        display:inline-block;
+        text-align: center;
+        
+       }
+       li {
+        list-style: none;
+        display:inline-block;
+        text-align: center;
+        margin: 10px;
+    
+       } 
+   
+       .menu__list ul a {
+       display:inline-block;
+        text-align: center;
+        
+       }
+
+       li :hover {
+        background: #dac1eb;
+       
+       }
+       #intro-section{
+        background-color: #d3bef4;
+        text-align: center; 
+       
+       
+       
+       }
+       #section-img{
+        text-align: center; 
+        margin: 10px;
+
+       
+       }
+       #texto{
+        text-align: center;
+      }
+      .flex-container {
+
+        display: flex;
+        
+        }
        
