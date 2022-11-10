@@ -1,17 +1,35 @@
-/* Error: expected selector.
- *    ,
- * 37 |        *∕ barra de navegacion horizontal*∕
- *    |         ^
- *    '
- *   scss\style.scss 37:9  root stylesheet */
-
-body::before {
-  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
-      "Droid Sans Mono", monospace, monospace;
-  white-space: pre;
-  display: block;
-  padding: 1em;
-  margin-bottom: 1em;
-  border-bottom: 2px solid black;
-  content: "Error: expected selector.\a    \2577 \a 37 \2502         */ barra de navegacion horizontal*/\d\a    \2502          ^\a    \2575 \a   scss\\style.scss 37:9  root stylesheet";
+* {
+  margin: 0;
+  padding: 0;
 }
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.contenedor {
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+header {
+  background-color: #a183c0;
+  padding: 5px;
+}
+
+#intro-section {
+  padding: 60px;
+}
+
+.menu__list a {
+  list-style-type: none;
+}
+
+.menu__list a {
+  color: black;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=style.css.map */
