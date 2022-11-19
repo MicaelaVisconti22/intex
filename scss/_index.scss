@@ -1,0 +1,48 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    
+    }
+    .contenedor{
+     width: 100%;
+     margin: 0 auto;
+     overflow: hidden;
+     
+    }
+   
+    header {
+      background-color: #a183c0;
+      padding: 5px;
+      
+    }
+      
+     #intro-section{
+     padding:60px ;
+      }
+    
+     
+      
+      #intro-section{
+       background-color: #d3bef4;
+       text-align: center; 
+      
+      
+      
+      }
+      #section-img{
+       text-align: center; 
+       margin: 10px;
+
+      
+      }
+      #texto{
+       text-align: center;
+     }
+     .flex-container {
+
+       display: flex;
+       
+       } 
+       $primary-color:#280d53;
+       .text {
+         color: $primary-color;
+       }
