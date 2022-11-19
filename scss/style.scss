@@ -1,12 +1,7 @@
 
 
 
-* 
  
-{
-    margin: 0;
-    padding: 0;
-     }
     body{
      font-family: 'Montserrat', sans-serif;
      
@@ -28,40 +23,8 @@
       padding:60px ;
        }
      
-       .menu__list a{
-       list-style-type: none;
+      
        
-       }
-       .menu__list  a {
-        color: black;
-        text-transform: uppercase;
-        text-decoration: none;
-        }
-        
-       
-       .menu__list ul a {
-        display:inline-block;
-        text-align: center;
-        
-       }
-       li {
-        list-style: none;
-        display:inline-block;
-        text-align: center;
-        margin: 10px;
-    
-       } 
-   
-       .menu__list ul a {
-       display:inline-block;
-        text-align: center;
-        
-       }
-
-       li :hover {
-        background: #dac1eb;
-       
-       }
        #intro-section{
         background-color: #d3bef4;
         text-align: center; 
@@ -82,6 +45,11 @@
 
         display: flex;
         
+        } 
+        $primary-color:#280d53;
+        .text {
+          color: $primary-color;
         }
+        
        
        
